@@ -1,0 +1,4 @@
+Flask 
+pytest 
+kafka-python 
+prometheus-client
